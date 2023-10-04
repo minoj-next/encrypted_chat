@@ -1,7 +1,8 @@
-<img width="332" alt="client chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/20d7d1fb-4674-4bc6-9873-c0deff52f124">
+<img width="332" alt="client chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/930ee323-e884-444d-bcb5-e9e22fc210f0">
 client chat
 
-<img width="476" alt="server chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/e25b7046-3688-433f-bc51-9a99e5a33109">
+
+<img width="476" alt="server chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/6f1a727e-aa85-493a-b194-fc53b532b7a3">
 server chat
 
 # Secure Encrypted Chat Client-Server
