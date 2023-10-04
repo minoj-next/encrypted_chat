@@ -1,3 +1,9 @@
+<img width="332" alt="client chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/20d7d1fb-4674-4bc6-9873-c0deff52f124">
+client chat
+
+<img width="476" alt="server chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/e25b7046-3688-433f-bc51-9a99e5a33109">
+server chat
+
 # Secure Encrypted Chat Client-Server
 
 This project provides a secure and encrypted chat communication system between clients and a central server. It uses Python and the Fernet encryption library for end-to-end message security.
