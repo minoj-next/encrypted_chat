@@ -20,7 +20,7 @@ python server.py
 5. now you will find encryption key and server listening status
 6. now open another terminal and navigate to encrypted_chat directory
 7. open the client.py file = mousepad client.py
-8. replace the existing key with the generated key from server
+8. replace the existing key with the generated key from server and paste same ip address that you placed in server.py
 9. run the client.py
     python client.py
 10. now exchange messages securely from server to client
