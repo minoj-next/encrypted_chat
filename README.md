@@ -1,9 +1,13 @@
+<div>
+<div>client chat</div>
 <img width="332" alt="client chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/930ee323-e884-444d-bcb5-e9e22fc210f0">
-client chat
+</div>
 
 
-<img width="476" alt="server chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/6f1a727e-aa85-493a-b194-fc53b532b7a3">
-server chat
+<div>server chat</div>
+<div><img width="332" alt="server chat" src="https://github.com/minoj-next/encrypted_chat/assets/136566821/6f1a727e-aa85-493a-b194-fc53b532b7a3">
+</div>
+
 
 # Secure Encrypted Chat Client-Server
 
