@@ -21,9 +21,13 @@ This project provides a secure and encrypted chat communication system between c
 ## Getting Started
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/yourusername/encrypted_chat.git
+   ```bash 
+     git clone https://github.com/yourusername/encrypted_chat.git
+   ```
 2. navigate to the project directory
- cd encrypted_chat
+    ```bash 
+       cd encrypted_chat
+    ```
 3. Modify the server.py file details
 copy your local ip address and paste it in server.py file ( open server.py file with = mousepad server.py )
 4. run the server.py
